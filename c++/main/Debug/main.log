@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\2nd course\TA\Task 1 (Gnome and Bubble sort)\c++\main\main.cpp(66,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\2nd course\TA\Task 1 (Gnome and Bubble sort)\c++\main\main.cpp(78,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\2nd course\TA\Task 1 (Gnome and Bubble sort)\c++\main\main.cpp(91,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\2nd course\TA\Task 1 (Gnome and Bubble sort)\c++\main\main.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+D:\2nd course\TA\Task 1 (Gnome and Bubble sort)\c++\main\main.cpp(146,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.vcxproj -> D:\2nd course\TA\Task 1 (Gnome and Bubble sort)\c++\main\Debug\main.exe
